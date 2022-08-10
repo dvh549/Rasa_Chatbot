@@ -2,4 +2,4 @@
 Chatbot built using Python and Rasa
 
 ## Future Works
-Integrate with Telegram
+1. Integrate with Telegram
